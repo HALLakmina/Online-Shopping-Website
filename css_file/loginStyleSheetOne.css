@@ -1,0 +1,49 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-image:url(../web_side_image/showroomwfurniture-scaled.jpg);
+	background-size:cover;
+	color:white
+}
+
+.userLoginBox
+{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:400px;
+	padding:40px;
+	background:rgba(0,0,0,.8);
+	box-sizing:border-box;
+	box-shadow:0 15px 25px rgba(0,0,0,.5);
+	border-radius:10px;
+}
+.adminBox
+{
+	position: fixed;
+	right:0%;
+	top:0%;
+	/*fixed:left;
+	/*transform:translate(-50%,-50%);*/
+	width:160px;
+	height:60px;
+	text-align:center;
+	font-size:18px;
+	padding:20px;
+	background:rgba(0,0,0,.8);
+	box-sizing:border-box;
+}
+
+.a01
+{
+	font-family:Calibri;
+	color:white;
+	text-decoration:none;
+}
+.a01:hover
+{
+	font-size:20px;
+	font-weight:bold;
+}
