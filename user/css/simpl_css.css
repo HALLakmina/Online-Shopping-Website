@@ -1,0 +1,19 @@
+.body-background
+{
+    background-image:url(../resources/images/website_images/wallpaper.png);
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	overflow: visible;
+}
+.shop-now-btn:hover
+{
+    text-decoration: none;
+	color:white;
+	font-weight: bold;
+	width:50%;
+	padding:5px;
+	background:rgb(0, 166, 42);
+	box-sizing:border-box;
+	border-radius:5px;	
+}
